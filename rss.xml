@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Temp Sajt]]></title>
         <description><![CDATA[Temp Sajt]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/temp-sajt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 17:25:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Dec 2015 17:27:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/temp-sajt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[gjg ggjggj ghjghjgj g ghj ]]></title>
+            <description><![CDATA[<article><h1>gjg ggjggj ghjghjgj g ghj </h1><p>null</p></article>]]></description>
+            <link>https://thegrid.ai/temp-sajt/gjg-ggjggj-ghjghjgj-g-ghj/index.html</link>
+            <guid isPermaLink="false">9d770ebe-395e-4f8b-b170-dff4d22a52a3</guid>
+            <pubDate>Wed, 23 Dec 2015 17:27:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Naslov ide ovde]]></title>
             <description><![CDATA[<article><h1>Naslov ide ovde</h1><p>null</p></article>]]></description>
-            <link>undefinednaslov-ide-ovde/index.html</link>
+            <link>https://thegrid.ai/temp-sajt/naslov-ide-ovde/index.html</link>
             <guid isPermaLink="false">d9b2b938-54fd-4634-abe3-ab92482965bb</guid>
             <pubDate>Wed, 23 Dec 2015 17:25:15 GMT</pubDate>
         </item>
